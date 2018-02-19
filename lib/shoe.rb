@@ -4,6 +4,6 @@ class Shoe
   attr_reader
 
   def initialize(brand)
-    @brand = title
+    @brand = brand
   end
 end
